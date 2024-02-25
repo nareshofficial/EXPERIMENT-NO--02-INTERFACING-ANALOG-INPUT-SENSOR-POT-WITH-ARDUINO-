@@ -1,8 +1,8 @@
- ###  DATE: 
+ ###  DATE: 25.2.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: naresh.p.s
+###  ROLL NO :212223040127
+###  DEPARTMENT: cse
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
@@ -47,8 +47,8 @@ CIRCUIT DIAGRAM
 
 
 
+![Screenshot 2024-02-25 184233](https://github.com/nareshofficial/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/155141830/42e5aedb-dc33-4455-816f-7e87530e6e65)
 
-![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
 **FIGURE -01
 **
@@ -83,7 +83,7 @@ CIRCUIT DIAGRAM
 **
 
 
-[My image](username.github.com/repository/img/image.jpg)
+![Screenshot 2024-02-25 182523](https://github.com/nareshofficial/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/155141830/d604f924-705a-4a67-96b9-18b5f040f869)
 
 
 
@@ -92,3 +92,4 @@ CIRCUIT DIAGRAM
 
 
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+
